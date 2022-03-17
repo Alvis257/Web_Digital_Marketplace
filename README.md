@@ -27,4 +27,3 @@
 
 
 ![landing-page-template](https://user-images.githubusercontent.com/90256392/157675399-06a444cc-d76f-4fcd-9b42-e8b83971ca2b.jpg)
-![landing-page-template](https://user-images.githubusercontent.com/90256392/157675469-a8bc3556-8861-436a-b328-44c11f3c5bc1.jpg)
